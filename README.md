@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ISMAIL HAKKI OZCELIK</h1>
-<h3 align="center">Software Specialist, Data Scientist, Software & Deep Learning Enthusiast</h3>
+<h3 align="center">Senior Software Engineer, Data Scientist, Software & Deep Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on **Frontend Developing & Deep Learning**
 
